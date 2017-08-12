@@ -235,7 +235,7 @@ The BRSAR Patch File Syntax/Format.
 I'm available on "HorizonWii".
 For help/questions/support/bug reports/etc.,
 contact me (by "posting a reply") at the discussion
-thread on "HorizonWii": 
+thread on "HorizonWii": http://horizonwii.net/?page=thread&id=138
 
 Oh and please read the first post (of the discussion thread) COMPLETELY and PROPERLY before you post anything.
 
