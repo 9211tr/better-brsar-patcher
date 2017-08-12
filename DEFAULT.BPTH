@@ -1,0 +1,260 @@
+Better Wii BRSTM BRSAR Patcher File:
+New Super Mario Bros. Wii
+9211tr
+See the README.TXT file for my contact information
+
+
+0x4BA60 5stars_cmplt_lr.n.32.brstm
+5 Stars Collected Jingle.
+
+0x4AC2C all_bubble_lr.n.32.brstm
+"All Players are in a Bubble" Death Jingle.
+
+0x4A91C athletic_fast_lr.n.32.brstm
+Mushrooms+Athletic Theme (Fast, plays when time is running out).
+
+0x4A8DC athletic_lr.n.32.brstm
+Mushrooms+Athletic Theme (Normal).
+
+0x4B038 BGM_HIKOUSEN.32.brstm
+Airship Theme (Normal).
+
+0x4B810 BGM_HIKOUSEN_BOSS.32.brstm
+Airship Boss Fight Theme (Normal).
+
+0x4B854 BGM_HIKOUSEN_BOSS_fast.32.brstm
+Airship Boss Fight Theme (Fast, plays when time is running out).
+
+0x4B0B8 BGM_HIKOUSEN_CLEAR.32.brstm
+"Airship Boss Defeated / Airship Cleared" Jingle.
+
+0x4B074 BGM_HIKOUSEN_fast.32.brstm
+Airship Theme (Fast, plays when time is running out).
+
+0x4BC6C BGM_HIKOUSEN_ROUKA.32.brstm
+"Before Airship Boss Fight" Drum Beats (Normal).
+
+0x4BCB0 BGM_HIKOUSEN_ROUKA_fast.32.brstm
+"Before Airship Boss Fight" Drum Beats (Fast, plays when time is running out).
+
+0x4B570 BGM_LAST_BOSS1_fast_lr.ry.32.brstm
+Final Boss Fight, Stage 1 Theme (Fast, plays when time is running out).
+
+0x4B52C BGM_LAST_BOSS1_lr.ry.32.brstm
+Final Boss Fight, Stage 1 Theme (Normal).
+
+0x4B4DC BGM_LAST_CASTLE_ROUKA_FAST_lr.ry.32.brstm
+"Before Final Boss Fight" Drum Beats (Fast, plays when time is running out).
+
+0x4B490 BGM_LAST_CASTLE_ROUKA_lr.ry.32.brstm
+"Before Final Boss Fight" Drum Beats (Normal).
+
+0x4B444 BGM_lastcasle_appear_lr.ry.32.brstm
+"Final Castle Appears in World 8" Jingle.
+
+0x4AA30 BGM_MAP_W5.32.brstm
+World 5 Music.
+
+0x4AAB4 BGM_MAP_W7.32.brstm
+World 7 Music.
+
+0x4AAF0 BGM_MAP_W8.32.brstm
+World 8 Music.
+
+0x4B99C BGM_MG_BTL.32.brstm
+Enemy Ambush Battle Theme (plays in a enemy ambush level after you get hit by an enemy in any world map).
+
+0x4BBE8 BGM_MG_BTL_FANFARE.32.brstm
+"Enemy Ambush Battle Finished" Jingle.
+
+0x4B13C BGM_MINIGAME_FANFARE_BAD.32.brstm
+Bad 2-Card Match (Toad House Minigame) Jingle.
+
+0x4B184 BGM_MINIGAME_FANFARE_GOOD.32.brstm
+Good 2-Card Match (Toad House Minigame) Jingle.
+
+0x4B1D0 BGM_OBAKE.32.brstm
+Ghost House Theme (Normal).
+
+0x4B20C BGM_OBAKE_fast.32.brstm
+Ghost House Theme (Fast, plays when time is running out).
+
+0x4B2CC BGM_SIRO.32.brstm
+Castle Theme (Normal).
+
+0x4AFF8 BGM_SIRO_CLEAR.32.brstm
+"Castle Boss Defeated / Castle Cleared" Jingle.
+
+0x4B304 BGM_SIRO_fast.32.brstm
+Castle Theme (Fast, plays when time is running out).
+
+0x4B9D8 BGM_STARCOIN_CMP_ALL.32.brstm
+"All Star Coins Collected in all Worlds" Jingle.
+
+0x4BA1C BGM_STARCOIN_CMP1.32.brstm
+"All Star Coins Collected in one World" Jingle.
+
+0x4B794 BGM_SUICHU.32.brstm
+Underwater Theme (Normal).
+
+0x4B7D0 BGM_SUICHU_fast.32.brstm
+Underwater Theme (Fast, plays when time is running out).
+
+0x4B3C0 BGM_TORIDE_BOSS.32.brstm
+Tower Boss Fight Theme (Normal).
+
+0x4B400 BGM_TORIDE_BOSS_fast.32.brstm
+Tower Boss Fight Theme (Fast, plays when time is running out).
+
+0x4B754 BGM_TORIDE_CLEAR.32.brstm
+"Tower Boss Defeated / Tower Cleared" Jingle.
+
+0x4AD6C couse_clear_lr.n.32.brstm
+"COURSE CLEAR!" Jingle (plays when you complete a level and if the "COURSE CLEAR!" message appears).
+
+0x4ADAC couse_clear_zoro_lr.n.32.brstm
+"COURSE CLEAR!" Jingle (SMB1 / "Retro" version, plays when you did something in a level to get a suprise/bonus/etc. and then complete that level and if the "COURSE CLEAR!" message appears).
+
+0x4AC6C DEMO_end_lr.ry.32.brstm
+"Ending" Music (plays in the part where Mario and Princess Peach goes into a hot-air ballon, where the princess tells him about the secret world [World 9] or something else).
+
+0x4BC2C DEMO_op_lr.ry.32.brstm
+"Beginning" Music (plays in the part where it's Princess Peach's birthday and where she gets kidnapped).
+
+0x4ACF0 down_lr.n.32.brstm
+"All Players Died" Death Jingle.
+
+0x4B5BC dummy_fanfare_lr.ry.32.brstm
+You rescued Princess Peach (Fake) Fanfare.
+
+0x4B600 dummy_harp_lr.ry.32.brstm
+You rescued Princess Peach (Fake) Jingle.
+
+0x4AD2C game_over_lr.n.32.brstm
+"GAME OVER!" Jingle (plays when all players lost all their lives).
+
+0x4AE30 kazan_fast_lr.n.32.brstm
+Volcano Theme (Fast, plays when time is running out).
+
+0x4ADF4 kazan_lr.n.32.brstm
+Volcano Theme (Normal).
+
+0x4AEB0 kazan_tika_fast_lr.ry.32.brstm
+Volcano Underground Theme (Fast, plays when time is running out).
+
+0x4AE70 kazan_tika_lr.ry.32.brstm
+Volcano Underground Theme (Normal).
+
+0x4B6C8 LastBoss_fanfare_lr.ry.32.brstm
+You rescued Princess Peach (Real) Fanfare.
+
+0x4B710 LastBoss_Harp_lr.ry.32.brstm
+You rescued Princess Peach (Real) Jingle.
+
+0x4B8D8 mori_fast_lr.ry.32.brstm
+Jungle Theme (Fast, plays when time is running out).
+
+0x4B89C mori_lr.ry.32.brstm
+Jungle Theme (Normal).
+
+0x4BB64 multi_fail_lr.n.32.brstm
+"Everyone Lost!" Jingle (plays when all players died in a level in the Free-for-All mode).
+
+0x4BAA4 peach_castle_lr.n.32.brstm
+Princess Peach's Castle Music (plays when you go into Princess Peach's castle in World 1).
+
+0x4BBA4 result_multi_lr.o.32.brstm
+Free-for-All / Coin Battle Results Music (plays after you complete a level in the Free-for-All or Coin Battle mode).
+
+0x4A71C select_map01_nohara_lr.n.32.brstm
+World 1 Music.
+
+0x4A960 select_map02_sabaku.ry.32.brstm
+World 2 Music.
+
+0x4A9A8 select_map03_yuki.ry.32.brstm
+World 3 Music.
+
+0x4A9EC select_map04_umii.ry.32.brstm
+World 4 Music.
+
+0x4AA6C select_map06_cliff_lr.n.32.brstm
+World 6 Music.
+
+0x4AB2C select_map09_rainbow_lr.n.32.brstm
+World 9 Music.
+
+0x4AFB4 shiro_boss_fast_lr.n.32.brstm
+Castle Boss Fight Theme (Fast, plays when time is running out).
+
+0x4AF74 shiro_boss_lr.n.32.brstm
+Castle Boss Fight Theme (Normal).
+
+0x4ACAC staffcredit_lr.ry.32.brstm
+Staff+Credits Roll Music.
+
+0x4BAE8 STRM_BGM_BONUS.brstm
+Bonus Area Theme (Normal).
+
+0x4BB24 STRM_BGM_BONUS_FAST.brstm
+Bonus Area Theme (Fast, plays when time is running out).
+
+0x4A820 STRM_BGM_CHIJOU.brstm
+Overworld Theme (Normal).
+
+0x4A898 STRM_BGM_CHIJOU_FAST.brstm
+Overworld Theme (Fast, plays when time is running out).
+
+0x4A85C STRM_BGM_CHIKA.brstm
+Underground Theme (Normal).
+
+0x4A764 STRM_BGM_CHIKA_FAST.brstm
+Underground Theme (Fast, plays when time is running out).
+
+0x4B640 STRM_BGM_LAST_BOSS2.brstm
+Final Boss Fight, Stage 2 Theme (Normal).
+
+0x4B680 STRM_BGM_LAST_BOSS2_FAST.brstm
+Final Boss Fight, Stage 2 Theme (Fast, plays when time is running out).
+
+0x4ABB4 STRM_BGM_MENU.brstm
+File & Free-for-All / Coin Battle Level Select Music.
+
+0x4B0FC STRM_BGM_MINIGAME.brstm
+Toad House Minigame Music.
+
+0x4B24C STRM_BGM_SABAKU.brstm
+Desert Theme (Normal).
+
+0x4B288 STRM_BGM_SABAKU_FAST.brstm
+Desert Theme (Fast, plays when time is running out).
+
+0x4B918 STRM_BGM_SANBASHI.brstm
+Beach/Ocean Theme (Normal).
+
+0x4B958 STRM_BGM_SANBASHI_FAST.brstm
+Beach/Ocean Theme (Fast, plays when time is running out).
+
+0x4B344 STRM_BGM_STAR.brstm
+Starman Music (Normal).
+
+0x4B380 STRM_BGM_STAR_FAST.brstm
+Starman Music (Fast, plays when time is running out).
+
+0x4A7A4 STRM_BGM_YUKI.brstm
+Snow Overworld Theme (Normal).
+
+0x4A7E0 STRM_BGM_YUKI_FAST.brstm
+Snow Overworld Theme (Fast, plays when time is running out).
+
+0x4ABF0 switch_lr.n.32.brstm
+P-Switch, ?-Switch, (and !-Switch?) Jingle.
+
+0x4AB78 title_lr.ry.32.brstm
+Title Screen Music.
+
+0x4AF34 toride_fast_lr.n.32.brstm
+Tower Theme (Fast, plays when time is running out).
+
+0x4AEF8 toride_lr.n.32.brstm
+Tower Theme (Normal).
