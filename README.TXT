@@ -45,6 +45,11 @@ This app is a command-line application, please open up the Windows Command Promp
 by searching/opening for "cmd.exe" in the start menu) and by typing in the necessary command
 option usages.
 
+To automate the process, there's a file called "DRAG_BRSAR_TO_PATCH_IT.BAT" so you can drag your BRSAR
+file to the .BAT file to patch it, so that you wouldn't have to type in any command options/usages.
+Please note that this file is only included in the releases/binaries, and is not available in the
+source code / Github repository.
+
 This app was originally intended to modify the BRSAR file of New Super Mario Bros. Wii.
 However, this can also be used to modify any other BRSAR in any other Wii Game.
 
