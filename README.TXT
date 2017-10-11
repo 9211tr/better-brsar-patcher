@@ -6,7 +6,7 @@ PLEASE READ ALL PARTS OF IT PROPERLY/CAREFULLY.
 ¸,ø¤°`°¤ø,¸¸,ø¤°`°¤°`°¤ø,¸¸,ø¤°`°¤
 
       BETTER WII BRSTM BRSAR
-          PATCHER v1.0.0
+          PATCHER v1.0.1
 
 ¸,ø¤°`°¤ø,¸¸,ø¤°`°¤°`°¤ø,¸¸,ø¤°`°¤
 
