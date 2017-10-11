@@ -1,5 +1,5 @@
 //
-//  Better Wii BRSTM BRSAR Patcher v1.0.0.
+//  Better Wii BRSTM BRSAR Patcher v1.0.1.
 //  A better utility for patching BRSAR files (can patch w/ BRSTMs up to 4GB)!
 //  Copyright © 2017 9211tr.
 //
@@ -100,7 +100,13 @@ class BRSARPatchingList
 
        unsigned int brstmCount() { return list.size(); }
        BRSTMList getbrstmInfo(unsigned int index) { return list.at(index); }
-       void free() { gameName = patchAuthorName = patchAuthorContactInfo = ""; for (unsigned int ui = 0; ui < list.size(); list.at(ui).free(), ui++); std::vector<BRSTMList>().swap(list); }
+       void free()
+       {
+           gameName = patchAuthorName = patchAuthorContactInfo = "";
+           for (unsigned int ui = 0; ui < list.size(); list.at(ui).free(), ui++);
+           for (unsigned int ui = 0; ui < list.size(); list.pop_back(), ui++);
+           std::vector<BRSTMList>().swap(list);
+       }
 };
 
 
@@ -111,7 +117,7 @@ std::string holder = "";
 int main(int argc, char *argv[])
 {
     // Print the program's text banner.
-    std::cout << "\n\n\nBetter Wii BRSTM BRSAR Patcher v1.0.0.\nA better utility for patching BRSAR files (can patch w/ BRSTMs up to 4GB)!\nBy 9211tr." << std::endl << std::endl << std::endl;
+    std::cout << "\n\n\nBetter Wii BRSTM BRSAR Patcher v1.0.1.\nA better utility for patching BRSAR files (can patch w/ BRSTMs up to 4GB)!\nBy 9211tr." << std::endl << std::endl << std::endl;
 
     // Necessary Variables.
     unsigned int entryNum = 0;
@@ -551,5 +557,6 @@ int main(int argc, char *argv[])
     immediateExit:
     std::cout << std::endl << std::endl << std::endl;
     delete[] optionsChecked;
+    bpl.free();
     return 0;
 }

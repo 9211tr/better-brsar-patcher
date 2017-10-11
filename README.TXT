@@ -11,7 +11,7 @@ PLEASE READ ALL PARTS OF IT PROPERLY/CAREFULLY.
 ¸,ø¤°`°¤ø,¸¸,ø¤°`°¤°`°¤ø,¸¸,ø¤°`°¤
 
 
-Better Wii BRSTM BRSAR Patcher v1.0.0.
+Better Wii BRSTM BRSAR Patcher v1.0.1.
 A better utility for patching BRSAR files (can patch w/ BRSTMs up to 4GB)!
 Copyright © 2017 9211tr.
 
@@ -255,6 +255,10 @@ first, before you attempt to register/etc.
       PROGRAM UPDATE HISTORY
 
 ¸,ø¤°`°¤ø,¸¸,ø¤°`°¤ø,¸,ø¤`°¤ø,¸,ø¤
+
+
+v1.0.1 [10/11/2017]
+   Minor code updates. No new features/etc. added.
 
 
 v1.0.0 [08/12/2017]
