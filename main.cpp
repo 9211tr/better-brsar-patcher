@@ -473,6 +473,8 @@ int main(int argc, char *argv[])
             fs.open((stringWhiteSpaceOrNull(infoTXTfilename, true) ? brsarPatchName + "_info.txt" : infoTXTfilename), std::ios::out | std::ios::binary);
             if (!fs)
             {
+                output.str("");
+                output.clear();
                 std::cerr << "ERROR: Output info text file could not be created.";
                 goto immediateExit;
             }
@@ -481,6 +483,8 @@ int main(int argc, char *argv[])
 
             std::cout << "The infos were successfully written to a text file (\"" << (stringWhiteSpaceOrNull(infoTXTfilename, true) ? brsarPatchName + "_info.txt" : infoTXTfilename) << "\").";
         }
+        output.str("");
+        output.clear();
     }
 
 
